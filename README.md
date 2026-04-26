@@ -2,6 +2,8 @@
 
 Projeto desenvolvido com o objetivo de praticar lógica de programação e manipulação de arquivos em Java.
 
+🚀 Atualização v2.0: Código refatorado para incluir tratamento de erros robusto e melhor organização de métodos.
+
 ## 🚀 Funcionalidades
 
 - Cadastro de notas de um aluno
